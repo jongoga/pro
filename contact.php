@@ -28,15 +28,15 @@
                 <div class="rto">
                     <h2>Blend Shala
                         </h2>
-                        <p>049745854</p>
+                        <p>04971111</p>
                 </div>
                 <div class="rto">
                     <h2>Jon Goga</h2>
-                    <p>049574980</p>
+                    <p>04911111</p>
                 </div>
                 <div class="rto">
                     <h2>Fisnik Kurhasani</h2>
-                    <p>049475124</p></div>
+                    <p>04911111</p></div>
                     
             </section>
             <div class="contact"  >
